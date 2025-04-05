@@ -1,0 +1,4 @@
+repository "Point & Click/Point_Click@20067462583031@cloud"
+  path "/"
+    br "/main"
+    co "/main"
