@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 31a6a6ae6fe450c46bea19df3ad2cce0
+guid: 4d711dccf2f093f4d9cf7de84e3d5c25
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1954037081353946450
-    second: sprite_Hope_Perry_Idle_U2_0
+      213: -4428650718207489434
+    second: Hope Perry Idle Speaking_0
+  - first:
+      213: -6404199753178629894
+    second: Hope Perry Idle Speaking_1
+  - first:
+      213: 3747428071945088006
+    second: Hope Perry Idle Speaking_2
+  - first:
+      213: -3066030259959267780
+    second: Hope Perry Idle Speaking_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +57,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,40 +105,93 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_Hope_Perry_Idle_U2_0
+      name: Hope Perry Idle Speaking_0
       rect:
         serializedVersion: 2
-        x: 19
+        x: 18
         y: 0
-        width: 23
-        height: 61
+        width: 24
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2550b006f522e1b10800000000000000
-      internalID: 1954037081353946450
+      spriteID: 66ac6f2c2a54a82c0800000000000000
+      internalID: -4428650718207489434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Speaking_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b4216146bf17a0800000000000000
+      internalID: -6404199753178629894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Speaking_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2d990af9810430800000000000000
+      internalID: 3747428071945088006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Speaking_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e778c19b54375d0800000000000000
+      internalID: -3066030259959267780
       vertices: []
       indices: 
       edges: []
@@ -138,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ba069ae45ff19cc4ab11845b989a28e3
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hope Perry Idle Speaking_0: -4428650718207489434
+      Hope Perry Idle Speaking_1: -6404199753178629894
+      Hope Perry Idle Speaking_2: 3747428071945088006
+      Hope Perry Idle Speaking_3: -3066030259959267780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

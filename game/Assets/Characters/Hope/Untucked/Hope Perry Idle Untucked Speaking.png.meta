@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 03b6414bbf18cd24bafeaf03ee390e06
+guid: 5c00c6521a7fc0841a5fef676796902e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3497247904222702867
-    second: sprite_Hope_Perry_Idle2_0
+      213: -7561633463293110580
+    second: Hope Perry Idle Untucked Speaking_0
+  - first:
+      213: -3396220391103429090
+    second: Hope Perry Idle Untucked Speaking_1
+  - first:
+      213: -457620989993496845
+    second: Hope Perry Idle Untucked Speaking_2
+  - first:
+      213: 8111012738448677673
+    second: Hope Perry Idle Untucked Speaking_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +57,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,40 +105,93 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_Hope_Perry_Idle2_0
+      name: Hope Perry Idle Untucked Speaking_0
       rect:
         serializedVersion: 2
-        x: 18
+        x: 19
         y: 0
-        width: 24
-        height: 61
+        width: 23
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de293517f87477fc0800000000000000
-      internalID: -3497247904222702867
+      spriteID: cc615baad6eaf0790800000000000000
+      internalID: -7561633463293110580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Untucked Speaking_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1687595c833ed0d0800000000000000
+      internalID: -3396220391103429090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Untucked Speaking_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fecca9522436a9f0800000000000000
+      internalID: -457620989993496845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hope Perry Idle Untucked Speaking_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bd6e39c1b109070800000000000000
+      internalID: 8111012738448677673
       vertices: []
       indices: 
       edges: []
@@ -138,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ed8e512cf7a73bc4791b46a4c297169f
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hope Perry Idle Untucked Speaking_0: -7561633463293110580
+      Hope Perry Idle Untucked Speaking_1: -3396220391103429090
+      Hope Perry Idle Untucked Speaking_2: -457620989993496845
+      Hope Perry Idle Untucked Speaking_3: 8111012738448677673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
